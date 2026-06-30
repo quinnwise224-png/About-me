@@ -1,18 +1,21 @@
 # About-me
 <body>
-###Skills
- <p> Coding in HTML </p>
+ 
+<b> Skills  </b> 
+ <p> Coding in HTML</p>
  <p> Crotching </p>
-<p> Writing in multiple languages </p>
+ <p> Writing in multiple languages </p> 
 
-###Interests/Hobbies
+
+</br> <b> Interests/Hobbies  </b> </br>
  <p> Reading </p>
  <p> Drawing  </p>
  <p> Trying new things </p>
  <p> Writing </p>
- <p> Hiking </p>
+ <p> Hiking </p> 
 
-###Fun Fact
+
+</br> <b> Fun Fact  </b> </br>
  <p> I played five sports </p>
  <p> I know how to play the hamonrica  </p>
 
